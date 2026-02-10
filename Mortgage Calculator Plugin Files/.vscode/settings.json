@@ -1,0 +1,12 @@
+{
+  "intelephense.environment.includePaths": [
+    "C:/wamp64/www/plugindev/wp-includes",
+    "C:/wamp64/www/plugindev/wp-admin",
+    "C:/wamp64/www/plugindev/wp-content",
+    "C:/wamp64/www/plugindev/wp-content/plugins/calculator"
+  ],
+  "intelephense.diagnostics.undefinedFunctions": false,
+  "intelephense.diagnostics.undefinedConstants": false,
+  "intelephense.diagnostics.undefinedTypes": false,
+  "intelephense.diagnostics.undefinedVariables": false
+}
