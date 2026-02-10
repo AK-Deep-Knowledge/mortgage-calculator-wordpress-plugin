@@ -7,33 +7,25 @@ A lightweight, responsive, and easy-to-use **Mortgage Calculator** plugin for Wo
 
 ---
 
-## 📌 Overview
+## Features
 
-This plugin adds a mortgage calculator to your WordPress site. Your visitors can enter a loan amount, interest rate, and loan term to calculate:
+* **Real-Time Calculation:** Instant results without page reloads.
+* **Fully Responsive:** Works perfectly on desktops, tablets, and mobile devices.
+* **Simple Integration:** Use a simple shortcode to display the calculator anywhere.
+* **Clean UI:** Designed to blend seamlessly with most WordPress themes.
+* **Customizable:** Easy to tweak styles via CSS to match your brand.
 
-- **Monthly Payment**
-- **Total Payment**
-- **Total Interest**
+## Installation
 
-It’s built to be simple, clean, and bloat‑free — perfect for real estate sites, financial blogs, or loan landing pages.
+1.  **Download** the repository as a ZIP file.
+2.  Go to your **WordPress Admin Dashboard**.
+3.  Navigate to **Plugins > Add New > Upload Plugin**.
+4.  Upload the `mortgage-calculator-wordpress-plugin.zip` file.
+5.  Click **Install Now** and then **Activate**.
 
----
+## Usage
 
-## 🌟 Key Features
+Once activated, you can display the calculator on any page, post, or sidebar using the following shortcode:
 
-- 🔹 Simple mortgage calculator UI  
-- 🔹 Shortcode support  
-- 🔹 Responsive and mobile‑friendly layout  
-- 🔹 Works with any WordPress theme  
-- 🔹 Lightweight — no heavy scripts or frameworks  
-- 🔹 Translation ready  
-
----
-
-## 🚀 Installation
-
-1. Download or clone the plugin into your WordPress `wp-content/plugins/` directory.  
-2. Go to **Plugins → Installed Plugins** in your WordPress dashboard.  
-3. Activate **Mortgage Calculator WordPress Plugin**.  
-4. Use the shortcode below in any page, post, or widget area:
-
+1. `Affordability Calculator [calculator1]`
+2. `Payment Calculator [calculator2]`
